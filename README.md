@@ -1,15 +1,13 @@
-- 👋 Hi, I’m @kimleeyoung
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 성인병 관리를 위한 어플리케이션 <운동관리시스템> 소스입니다.
 
-<!---
-kimleeyoung/kimleeyoung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 어플 설명
+  - 고혈압, 당뇨 등의 성인병 질환을 가진 사람들을 관리 및 프로그램 제공
+  - 트레이너, 헬스장에게 회원 관리 서비스 및 관리 툴 제공
 
-안녕하세요 저는 정보통신공학과 3학년 김이영입니다.
-현재 안드로이드/IOS 앱 개발자로 취업을 준비하고 있습니다.
-앞으로 깃허브를 이용하여 코드를 정리하기 위해서 개인 계정을 만들었습니다.
-열심히 공부하겠습니다.
+# 구현한 기능 
+  - 카카오 소셜 로그인 기능(카카오 아이디로 로그인 가능)
+  - 수업 예약(예약 확인, 추가, 삭제, 수정, 보기방식 변경)
+  - 식단 및 운동 기록(추가, 수정, 삭제, 코멘트)
+  - 캘린더(커스터마이징, 일정표시)
+  - 회원 명단(정보 확인, 메신저)
+  - 위치기반 서비스(헬스장 추천 정보 제공)
