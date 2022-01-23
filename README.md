@@ -1,5 +1,5 @@
 # 임베디드 시스템을 활용한 <아두이노 보드게임>
-![image](https://user-images.githubusercontent.com/65011438/150670125-42712090-687a-45da-b1ab-7dc7a1b4f38f.png)
+![image](https://user-images.githubusercontent.com/65011438/150670139-27fc6bd3-5d41-44a8-a063-cddb6d257b1c.png)
 
 # 어플 설명
   - 아날로그 보드게임과 디지털 스마트폰의 결합 
